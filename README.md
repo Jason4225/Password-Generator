@@ -27,3 +27,7 @@ Before compiling you need to have [CMake](https://cmake.org/) and [Visual Studio
 -lower : Use lowercase chars a-z in your password.
 -nums : Use numbers 0-9 in your password.
 -other : Use other characters like []/*.!.
+
+# Todo
+
+1. Gui version
