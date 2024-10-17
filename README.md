@@ -1,6 +1,6 @@
 # Password generator
 
-A very simple password generator with some customizability (Password length and choose what characters to use). For secure randomization is (LibSodium)[https://doc.libsodium.org/] being used.
+A very simple password generator with some customizability (Password length and choose what characters to use). For secure randomization is [LibSodium](https://doc.libsodium.org/) being used.
 
 ## Features
 
@@ -11,7 +11,7 @@ A very simple password generator with some customizability (Password length and 
  
 ## Compiling
 
-Before compiling you need to have (CMake)[https://cmake.org/] and (Visual Studio)[https://visualstudio.microsoft.com/] installed.
+Before compiling you need to have [CMake](https://cmake.org/) and [Visual Studio](https://visualstudio.microsoft.com/) installed.
 
 1. Open cmd and write `git clone https://github.com/Jason4225/Password-Generator.git`
 2. Run `Build CLI.bat`
